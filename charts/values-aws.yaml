@@ -95,7 +95,7 @@ nodepools:
   # securityGroups: []
 
   # AWS keypair to use
-  keypairName: ""
+  keypairName: "demo-keypair-oregon"
 
   # Skip adding default rules to security groups
   securityGroupReadonly: false
